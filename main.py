@@ -1,9 +1,10 @@
 ##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-## Created by: Hang Zhang
-## ECE Department, Rutgers University
-## Email: zhang.hang@rutgers.edu
-## Copyright (c) 2017
-##
+## Created by: Yuting Hu
+## ECE Department, Georgia Institute of Technology
+## Email: huyuting@gatech.edu
+## Copyright (c) 2019
+## Code for "Multi-level Texture Encoding and Representation (MuLTER) based on Deep Neural Networks" (ICIP2019);
+## Partial code are borrowed from Hang Zhang (zhang.hang@rutgers.edu, ECE Department, Rutgers University)'s work deep texture encoding network (DEEP TEN).
 ## This source code is licensed under the MIT-style license found in the
 ## LICENSE file in the root directory of this source tree 
 ##+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
