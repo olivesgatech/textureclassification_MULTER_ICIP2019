@@ -10,7 +10,7 @@ or
 
 @inproceedings{hu2019_multertexture,
 author={Hu, Yuting and Long, Zhiling and AlRegib, Ghassan},
-booktitle={The 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), New Orleans, USA},
+booktitle={IEEE International Conference on Image Processing (ICIP)},
 title={Multi-level Texture Encoding and Representation (MuLTER) based on Deep Neural Networks,
 month={September},
 year={2019}
